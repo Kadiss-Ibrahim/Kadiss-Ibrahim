@@ -29,4 +29,4 @@
 ---
 
 ### Development Insights
-![Ibrahim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kadiss-Ibrahim&theme=react-dark&hide_border=true&area=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=dark)
