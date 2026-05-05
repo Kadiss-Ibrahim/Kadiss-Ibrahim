@@ -14,11 +14,12 @@ I am a 4th-year Software Engineering student focused on building robust, scalabl
 | **Data** | SQL, PostgreSQL |
 | **Cloud & DevOps** | AWS (Learning), Git, Docker |
 | **Emerging Tech** | Generative AI Concepts, LLM Integration |
+
 ---
 
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-ait-kadiss-575895271/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimaitkadiss@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimaitkadiss@gmail.com?subject=Regarding%20your%20Software%20Engineering%20profile)
 
 ---
 
