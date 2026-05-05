@@ -1,15 +1,19 @@
 # Hi there, I'm Ibrahim Ait Kadiss 👋 
 
-### 🚀 Software Engineering Student | Java/Spring Boot & React
-I'm a 4th-year student passionate about building scalable applications and exploring Cloud (AWS) and Generative AI.
+### 🚀 Software Engineer in Training
+I am a 4th-year Software Engineering student focused on building robust, scalable systems. While I have a strong foundation in Full-Stack development, I am currently pivoting my expertise towards **Cloud Architecture** and **Applied Generative AI**.
 
 ---
 
-### 🛠 Tech Stack
-- **Backend:** Java, Spring Boot, SQL
-- **Frontend:** React, Tailwind CSS
-- **Learning:** AWS, Generative AI Concepts, Docker
+### 🛠️ Technical Ecosystem
 
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Core** | Java, Spring Boot, Python |
+| **Frontend** | React.js, Tailwind CSS, JavaScript |
+| **Data** | SQL, PostgreSQL |
+| **Cloud & DevOps** | AWS (Learning), Git, Docker |
+| **Emerging Tech** | Generative AI Concepts, LLM Integration |
 ---
 
 ### 📫 Connect with me:
@@ -19,4 +23,4 @@ I'm a 4th-year student passionate about building scalable applications and explo
 ---
 
 ### 📊 My GitHub Stats
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadiss-Ibrahim&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=radical)
