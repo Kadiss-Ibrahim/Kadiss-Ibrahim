@@ -30,8 +30,3 @@
 
 ### Development Insights
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=dark)
-
-### Certifications & Achievements
-![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Oracle Java](https://img.shields.io/badge/Java-Certified_Associate-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
