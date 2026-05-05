@@ -29,4 +29,8 @@
 ---
 
 ### Development Insights
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=dark)
+### Development Insights
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadiss-Ibrahim&theme=react-dark&hide_border=true&area=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=dark" width="48%" />
+</p>
