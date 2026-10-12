@@ -29,4 +29,4 @@
 ---
 
 ### Development Insights
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadiss-Ibrahim&layout=compact&theme=dark)
